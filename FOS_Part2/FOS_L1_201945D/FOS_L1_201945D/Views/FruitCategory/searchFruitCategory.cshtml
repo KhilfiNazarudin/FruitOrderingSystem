@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model ICollection<FOS_L1_201945D.Models.FruitCategory>
+
+}
+
+<h3>Search Fruit Category</h3>
+<form asp-controller="FruitCategory" asp-action="searchFruitCategory" method="post">
+    <p>
+        <label class="label">Category: </label>
+        <input type="text" name="category" id="category" />
+
+        <br />
+        <br />
+
+        <input type="submit" name="search" value="Search Category" />
+        <input type="reset" name="reset" value="Reset" />
+    </p>
+
+</form>
+
+
+<div class="tg-wrap">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-0pky">Id</th>
+                <th class="tg-0pky">Name</th>
+                <th class="tg-0lax">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model)
+            {
+                <tr>
+                    <td class="tg-0pky">@b.Id</td>
+                    <td class="tg-0pky">@b.Name</td>
+                    <td class="tg-0lax">@b.Description</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

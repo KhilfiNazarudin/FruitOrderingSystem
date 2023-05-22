@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model FOS_L1_201945D.Models.FruitCategory
+}
+<h3>Edit the fruit</h3>
+
+<form asp-controller="FruitCategory" asp-action="EditCategory" method="post">
+    <p>
+        @Html.ValidationSummary()
+
+        <label asp-for="Name" class="label">Name: </label>
+        <input asp-for="Name" />
+
+
+        <br /><br />
+
+        <label asp-for="Description" class="label">Description: </label>
+        <input asp-for="Description" />
+
+        <br /><br />
+
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" name="update" value="Update Category" />
+        <input type="reset" name="reset" value="Reset" />
+    </p>
+</form>

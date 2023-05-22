@@ -1,0 +1,142 @@
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.exe
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.deps.json
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.json
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.dev.json
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.AssemblyReference.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfoInputs.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CoreCompileInputs.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.MvcApplicationPartsAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.Manifest.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.xml
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReservation.styles.css
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.genruntimeconfig.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.dll
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CopyComplete
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.input.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.output.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorCoreGenerate.cache
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.1\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.exe
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.deps.json
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.json
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.dev.json
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.dll
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.AssemblyReference.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfoInputs.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CoreCompileInputs.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.MvcApplicationPartsAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.Manifest.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.xml
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReservation.styles.css
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.input.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.output.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorCoreGenerate.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookReservation.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.genruntimeconfig.cache
+C:\EGL219 (WADF)\Project\ver0.2\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CopyComplete
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.exe
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.deps.json
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.json
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.dev.json
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.dll
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.AssemblyReference.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfoInputs.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CoreCompileInputs.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.MvcApplicationPartsAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.Manifest.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.xml
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReservation.styles.css
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.input.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.output.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorCoreGenerate.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookReservation.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cs
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.Views.pdb
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.dll
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.pdb
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.genruntimeconfig.cache
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CopyComplete
+C:\EGL219 (WADF)\Project\ver0.3\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\appsettings.json
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.exe
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.deps.json
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.json
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.runtimeconfig.dev.json
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.dll
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.pdb
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.dll
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\bin\Debug\netcoreapp3.1\BookReservation.Views.pdb
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.GeneratedMSBuildEditorConfig.editorconfig
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfoInputs.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.AssemblyInfo.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CoreCompileInputs.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.MvcApplicationPartsAssemblyInfo.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorAssemblyInfo.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.Manifest.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\staticwebassets\BookReservation.StaticWebAssets.xml
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReservation.styles.css
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.input.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.TagHelpers.output.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorCoreGenerate.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookReservation.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.RazorTargetAssemblyInfo.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.Views.pdb
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.dll
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.pdb
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.genruntimeconfig.cache
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\BookReservation.csproj.CopyComplete
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Errors\Index.cshtml.g.cs
+H:\EGL219 Web Application Development\Project\BookReservation\ver0.4\BookReservation\BookReservation\obj\Debug\netcoreapp3.1\Razor\Views\Errors\HttpError.cshtml.g.cs

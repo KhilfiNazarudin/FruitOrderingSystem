@@ -1,0 +1,22 @@
+﻿body 
+{
+
+}
+
+header
+{
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+div
+{
+    padding-bottom: 15px;
+}
+
+header, footer
+{
+    text-align: center;
+    background-color: pink;
+}

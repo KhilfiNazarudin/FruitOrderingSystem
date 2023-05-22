@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model FOS_L1_201945D.Models.ViewModels.FruitVM
+}
+
+<h3>Add fruit</h3>
+
+
+<form asp-controller="Fruit" asp-action="AddFruit" method="post">
+
+    <p>
+        
+        <label asp-for="Fruit.Name" class="label">Name</label>
+        <input required asp-for="Fruit.Name" /> <br />
+
+        <label asp-for="Fruit.Country" class="label">Country</label>
+        <input required asp-for="Fruit.Country" /> <br />
+
+        <label asp-for="Fruit.Price" class="label">Price</label>
+        <input required asp-for="Fruit.Price" /> <br />
+
+        <label asp-for="Fruit.UnitOfMeasurement" class="label">Unit of Measurement</label>
+        <input required asp-for="Fruit.UnitOfMeasurement" /> <br />
+
+        <label asp-for="FruitCategories" class="label">Fruit Category ID:</label>
+
+        <select asp-for="Fruit.FruitCategoryId">
+            @foreach (var g in Model.FruitCategories)
+            {
+
+                <option value=@g.Id>@g.Name</option>
+
+            }
+
+        </select>
+
+        <input type="submit" value="Add Fruit" />
+        <input type="reset" value="Reset" />
+    </p>
+
+</form>

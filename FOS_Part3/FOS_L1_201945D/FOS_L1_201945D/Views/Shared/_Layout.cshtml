@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+
+@inject SignInManager<ApplicationUser> signInManager
+@inject UserManager<ApplicationUser> userManager
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <div>
+                <h1>Welcome to the </h1>
+                <h2>Fruit Ordering Website</h2>
+            </div>
+        </div>
+
+        <div>
+            <nav>
+                <ul class="navBar">
+                    <li>
+                        <a asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <a asp-controller="FruitCategory" asp-action="Index">Fruit Categories</a>
+                            @{
+                                if (User.IsInRole("Admin"))
+                                {
+
+
+                                    <div class="dropdown-content">
+                                        <a asp-controller="FruitCategory" asp-action="AddCategory">Add Fruit Category</a>
+                                    </div>
+
+                                }
+
+                            }
+                        </div>
+
+                    </li>
+                    <li>
+
+                        <div class="dropdown">
+                            <a asp-controller="Fruit" asp-action="Index">Fruits</a>
+                            @{
+                                if (User.IsInRole("Admin"))
+                                {
+                                    <div class="dropdown-content">
+                                        <a asp-controller="Fruit" asp-action="AddFruit">Add Fruit</a>
+                                    </div>
+                                }
+
+                            }
+
+                        </div>
+                    </li>
+
+
+                    @{
+                        if (signInManager.IsSignedIn(User))
+                        {
+                            ApplicationUser _user = await userManager.GetUserAsync(User);
+                            <li>
+                                <div class="dropdown">
+                                    <a asp-controller="Account" asp-action="EditProfile" asp-route-id="@_user.Id">Hi @_user.Name</a>
+
+                                    <div class="dropdown-content">
+                                        <a asp-controller="Orders" asp-action="orderHistory">View Order history</a>
+
+                                    </div>
+                                </div>
+                                            
+                            </li>
+                            <li><p class="loginName"></p></li>
+                            <li><a asp-controller="Account" asp-action="Logout">Logout</a></li>
+                        }
+                        else
+                        {
+                            <li><a asp-controller="Account" asp-action="Login">Login</a></li>
+                            <li><a asp-controller="Account" asp-action="Register">Register</a></li>
+
+                        }
+                    }
+
+
+                </ul>
+
+
+                
+
+
+
+            </nav>
+
+
+        </div>
+    
+    
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>OUR LOCATION</th>
+                    <th>Created By</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>111 New Ave, #10-01</td>
+                    <td>Mohamed Khilfi Bin Mohamed Nazarudin</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Tech Building</td>
+                    <td>201945D</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Singapore 111111</td>
+                    <td>L1</td>
+                    <td>Copyright &copy; @DateTime.Now.Year, DeezFrutz</td>
+                </tr>
+            </tbody>
+        </table>
+    </footer>
+</body>
+</html>

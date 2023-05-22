@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <div>
+                <h1>Welcome to the </h1>                
+                <h2>Fruit Ordering Website</h2>
+            </div>
+        </div>
+        
+        <div>
+            <nav>
+                <ul class="navBar">
+                    <li><a href="/Home/">Home</a></li>
+                    <li>
+                        
+                        <div class="dropdown">
+                            <a href="/FruitCategory/">Fruit Categories</a>
+                            <div class="dropdown-content">
+                                <a href="/FruitCategory/AddCategory">Add Fruit Category</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        
+                        <div class="dropdown">
+                            <a href="~/Fruit/">Fruits</a>
+                            <div class="dropdown-content">
+                                <a href="~/Fruit/AddFruit">Add Fruit</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+
+                
+              
+            </nav>
+        </div>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>OUR LOCATION</th>
+                    <th>Created By</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>111 New Ave, #10-01</td>
+                    <td>Mohamed Khilfi Bin Mohamed Nazarudin</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Tech Building</td>
+                    <td>201945D</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Singapore 111111</td>
+                    <td>L1</td>
+                    <td>Copyright &copy; @DateTime.Now.Year, DeezFrutz</td>
+                </tr>
+            </tbody>
+        </table>
+    </footer>
+</body>
+</html>

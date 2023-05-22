@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mdkhi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "H:\\Past Year\\Y2 S2\\EGL219 Web Application Development\\Project\\FOS_Part4\\FOS_L1_201945D\\FOS_L1_201945D\\FOS_L1_201945D.csproj",
+      "projectName": "FOS_L1_201945D",
+      "projectPath": "H:\\Past Year\\Y2 S2\\EGL219 Web Application Development\\Project\\FOS_Part4\\FOS_L1_201945D\\FOS_L1_201945D\\FOS_L1_201945D.csproj",
+      "packagesPath": "C:\\Users\\mdkhi\\.nuget\\packages\\",
+      "outputPath": "H:\\Past Year\\Y2 S2\\EGL219 Web Application Development\\Project\\FOS_Part4\\FOS_L1_201945D\\FOS_L1_201945D\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mdkhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

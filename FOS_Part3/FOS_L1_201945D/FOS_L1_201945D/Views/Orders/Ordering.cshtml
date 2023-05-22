@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model FOS_L1_201945D.Models.ViewModels.OrderVM
+}
+
+<h3>Ordering Page</h3>
+
+<form asp-controller="Orders" asp-action="Ordering" method="post">
+
+
+    @if (Model.order == null)
+    {
+        <label asp-for="Address" class="label">Address</label>
+        <input asp-for="Address" /> <br />
+        <span asp-validation-for="Address" class="validation"></span><br />
+
+        <label asp-for="ContactNumber" class="label">Contact Number</label>
+        <input asp-for="ContactNumber" /> <br />
+        <span asp-validation-for="ContactNumber" class="validation"></span><br />
+
+        <label asp-for="Date" class="label">Date</label>
+        <input max="29-01-2022" type="date" asp-for="Date" /> <br /> }
+
+
+
+
+
+
+
+
+
+    @*<label asp-for="Date" class="label">Date</label>
+        <input max="29-01-2022" type="date" asp-for="Date" /> <br />
+        @DateTime.Now.ToString("dd-MM-yyyy")
+        <span asp-validation-for="Date" class="validation"></span><br />*@
+
+    <label asp-for="SelectedFruitId" class="label">Select fruit</label>
+    <select asp-for="SelectedFruitId">
+        @foreach (var g in Model.Fruits)
+        {
+            <option value=@g.Id>@g.Name</option>
+        }
+
+    </select>
+    <input asp-for="quantity" /> <br />
+
+    @if (Model.order != null)
+    {
+        <input type="hidden" asp-for="orderID" value="10" />
+        <p>Total is @Model.order.TotalPrice</p>
+        <input type="submit" value="Add fruit to order" />
+        <a asp-controller="Orders" asp-action="orderHistory">View Order history</a>
+
+    }
+
+
+    <br />
+    @if (Model.order == null)
+    {
+        <input type="submit" value="Place an order now" />
+    }
+
+
+
+</form>
+
+

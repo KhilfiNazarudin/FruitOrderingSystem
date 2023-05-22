@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model ICollection<FOS_L1_201945D.Models.OrderItem>
+
+}
+
+
+
+<h3>List of Items</h3>
+
+
+<div class="tg-wrap">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-0pky">OrderId</th>
+                <th class="tg-0pky">Fruit Name</th>
+                <th class="tg-0pky">Fruit Category</th>
+                <th class="tg-0lax">Quantity</th>
+                <th class="tg-0pky">Subtotal</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model)
+            {
+            <tr>
+                <td class="tg-0pky">@b.OrderId</td>
+                <td class="tg-0pky">@b.Fruit.Name</td>
+                <td class="tg-0pky">@b.Fruit.FruitCategory.Name</td>
+                <td class="tg-0lax">@b.Quantity</td>
+                <td class="tg-0lax">@b.SubTotal</td>
+
+            </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

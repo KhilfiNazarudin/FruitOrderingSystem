@@ -1,0 +1,105 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model FOS_L1_201945D.Models.ViewModels.OrderVM
+}
+
+
+<h3>Ordering Page</h3>
+
+<p>
+    <form asp-controller="Orders" asp-action="Ordering" method="post">
+        <p>
+            <label asp-for="Address" class="label">Address</label>
+
+            @if (Model.Address != null)
+            {
+                <input required ="Address" value="@Model.Address" />
+            }
+            else
+            {
+                <input required asp-for="Address" value="" />
+            }
+            
+            <br />
+        </p>
+       
+
+        <label asp-for="SelectedFruitId" class="label">Select fruit</label>
+        <select asp-for="SelectedFruitId">
+            @foreach (var g in Model.Fruits)
+            {
+                <option value=@g.Id>@g.Name</option>
+            }
+        </select>
+        <input asp-for="quantity" /> <br />
+        <input type="submit" value="Add fruit to cart" />
+
+    </form>
+</p>
+
+
+
+<p>
+    <form asp-controller="Orders" asp-action="Checkout" method="post">
+
+        @{
+            decimal total = 0;
+            int x = 0;
+        }
+        <h4>YOUR CART</h4>
+        <table class="tg">
+            <thead>
+                <tr>
+                    <th class="tg-0pky">Name </th>
+                    <th class="tg-0pky">Quantity</th>
+                    <th class="tg-0lax">Subtotal</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var g in Model.itemList)
+                {
+                    decimal subtotal = 0;
+                    subtotal = g.Fruit.Price * @g.Quantity;
+                    <tr>
+                        <td class="tg-0pky">@g.Fruit.Name</td>
+                        <td class="tg-0pky">@g.Quantity</td>
+                        <td class="tg-0lax">@subtotal</td>
+                        
+                    </tr>
+                   
+                    total = total + g.Fruit.Price * g.Quantity;
+
+
+
+                    x++;
+                }
+            </tbody>
+        </table>
+
+       
+        Your total is @total<br />
+
+        <input required type="hidden" asp-for="Address" value="@Model.Address" />
+
+
+        @if ((total > 0) && (Model.Address != null))
+        {
+            <input required min="2022-02-08" type="date" asp-for="Date" value="@Model.Date" /><br />
+
+            <input type="submit" value="Place an order now" />
+        }
+
+    </form>
+</p>
+
+
+
+
+
+
+
+
+

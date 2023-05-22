@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model ICollection<FOS_L1_201945D.Models.Order>
+
+}
+
+<h3>Search Order By Id</h3>
+<form asp-controller="Orders" asp-action="orderHistory" method="post">
+    <p>
+        <label class="label">Id </label>
+        <input type="number" name="id" id="id" />
+
+        <br />
+        <br />
+        
+        <input type="submit" name="search" value="Search Order by Id" />
+        <input type="reset" name="reset" value="Reset" />
+    </p>
+
+</form>
+
+<h3>List of Orders</h3>
+
+
+<div class="tg-wrap">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-0pky"><a asp-controller="Orders" asp-action="orderHistory" asp-route-sortParam="id">Id</a></th>
+                <th class="tg-0pky">Address</th>
+                <th class="tg-0lax">ContactNumber</th>
+                <th class="tg-0pky"><a asp-controller="Orders" asp-action="orderHistory" asp-route-sortParam="date">Date</a></th>
+                <th class="tg-0pky"><a asp-controller="Orders" asp-action="orderHistory" asp-route-sortParam="totalprice">Total Price</a></th>
+                <th class="tg-0pky">Username</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model)
+            {
+            <tr>
+                <td class="tg-0pky"><a asp-route-id="@b.Id" asp-controller="Orders" asp-action="viewItems">@b.Id</a></td>
+               <td class="tg-0pky">@b.Address</td>
+                <td class="tg-0lax">@b.ContactNumber</td>
+                <td class="tg-0lax">@b.Date</td>
+                <td class="tg-0lax">@b.TotalPrice</td>
+                <td class="tg-0lax">@b.UserName</td>
+            </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

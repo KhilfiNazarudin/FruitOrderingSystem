@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model FOS_L1_201945D.Models.ViewModels.OrderDetailsVM
+}
+
+<h3>Ordering Page</h3>
+
+<form asp-controller="Orders" asp-action="Ordering" method="post">
+
+
+    <label asp-for="Address" class="label">Address</label>
+    <input asp-for="Address" /> <br />
+    <span asp-validation-for="Address" class="validation"></span><br />
+
+    <label asp-for="ContactNumber" class="label">Contact Number</label>
+    <input asp-for="ContactNumber" /> <br />
+    <span asp-validation-for="ContactNumber" class="validation"></span><br />
+
+    <label asp-for="Date" class="label">Date</label>
+    <input max="29-01-2022" type="date" asp-for="Date" /> <br />
+    @DateTime.Now.ToString("dd-MM-yyyy")
+    <span asp-validation-for="Date" class="validation"></span><br />
+
+    @{
+        int n = 0;
+    }
+    @foreach (var x in Model.OrderVM.Fruits)
+    {
+
+        <label class="label">@x.Name;</label>
+        <input required type="number" asp-for="OrderVM.Quantity[n]" /> <br />
+        n++;
+    }
+
+
+
+    <input type="submit" value="Place and order now" />
+</form>
+
+
